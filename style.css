@@ -1,0 +1,31 @@
+button {
+	background-color: violet;
+	font-size: large;
+	margin: 8%;
+	padding: 10px;
+}
+#header {
+	background-color: red;
+	padding: 10px;
+	text-align: center;
+}
+#dice {
+	background-color: aquamarine;
+	padding: 10px;
+	text-align: center;
+}
+#result {
+	background-color: tan;
+	padding: 10px;
+	text-align: center;
+}
+#rollAmount {
+	background-color: thistle;
+	padding: 10px;
+	text-align: center;
+}
+#selectAmount {
+	border: 2px solid black;
+	font-size: medium;
+	padding: 5px;
+}
